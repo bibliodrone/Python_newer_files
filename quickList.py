@@ -8,7 +8,7 @@ def main():
     stamp = str(now).replace(".", "")
     userName=os.getlogin()
 
-    fn = "List_"+stamp[6:12]+".txt"
+    fn = "List_"+userName+".txt"
                             
     lf = open(fn, 'w')
 
@@ -31,7 +31,7 @@ def main():
         line()
         start = int(start[1:])
         Nlines = int(Nlines)
-        for n in range(0, Nlines+1):
+        for n in range(0, Nlines):
             print("X" + str(start+n))
             lf.write("X" + str(start+n)+"\n")
         print()
@@ -43,7 +43,7 @@ def main():
         line()
         start = int(start)
         Nlines = int(Nlines)
-        for n in range(0, Nlines+1):
+        for n in range(0, Nlines):
             print(str(start+n))
             lf.write(str(start+n)+"\n")
         print()

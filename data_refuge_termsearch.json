@@ -1,0 +1,1230 @@
+Corresponding Packages on Data Refuge
+
+{'author': '',
+ 'author_email': '',
+ 'creator_user_id': '7cd4aa4f-118f-4270-8bf7-f4d830bccaed',
+ 'extras': [],
+ 'groups': [{'description': '',
+             'display_name': 'Data Rescue Events',
+             'id': '7e6363ef-35ed-43a2-ab20-d64df0cd421b',
+             'image_display_url': '',
+             'name': 'data-rescue-events',
+             'title': 'Data Rescue Events'}],
+ 'id': '48918e22-904d-4a2d-b4f7-611dc2fb0fa1',
+ 'isopen': True,
+ 'license_id': 'other-pd',
+ 'license_title': 'Other (Public Domain)',
+ 'maintainer': '',
+ 'maintainer_email': '',
+ 'metadata_created': '2017-02-19T21:14:50.383527',
+ 'metadata_modified': '2017-02-20T15:31:22.822716',
+ 'name': 'sea-level-trends',
+ 'notes': 'NOAA data of sea level trends.  These are local mean sea level '
+          'trends, displayed on a map.\r\n'
+          '\r\n'
+          'The Center for Operational Oceanographic Products and Services has '
+          'been measuring sea level for over 150 years, with tide stations of '
+          'the National Water Level Observation Network operating on all U.S. '
+          'coasts. Changes in Mean Sea Level (MSL), either a sea level rise or '
+          'sea level fall, have been computed at 142 long-term water level '
+          'stations using a minimum span of 30 years of observations at each '
+          'location. These measurements have been averaged by month to remove '
+          'the effect of higher frequency phenomena in order to compute an '
+          'accurate linear sea level trend. The trend analysis has also been '
+          'extended to 240 global tide stations using data from the Permanent '
+          'Service for Mean Sea Level (PSMSL). This work is funded in '
+          'partnership with the NOAA OAR Climate Observation Division.\r\n'
+          '\r\n'
+          'The mean sea level (MSL) trends measured by tide gauges that are '
+          'presented on this web site are local relative MSL trends as opposed '
+          'to the global sea level trend. Tide gauge measurements are made '
+          'with respect to a local fixed reference level on land; therefore, '
+          'if there is some long-term vertical land motion occurring at that '
+          'location, the relative MSL trend measured there is a combination of '
+          'the global sea level rate and the local vertical land motion. The '
+          'global sea level trend has been recorded by satellite altimeters '
+          'since 1992 and the latest calculation of the trend can be obtained '
+          "from NOAA's Laboratory for Satellite Altimetry, along with maps of "
+          "the regional variation in the trend. The University of Colorado's "
+          'Sea Level Research Group compares global sea level rates calculated '
+          'by different research organizations and provides detailed '
+          'explanations about the issues involved.',
+ 'num_resources': 2,
+ 'num_tags': 3,
+ 'organization': {'approval_status': 'approved',
+                  'created': '2017-02-15T13:10:32.467584',
+                  'description': 'The National Oceanic and Atmospheric '
+                                 'Administration is an American scientific '
+                                 'agency within the United States Department '
+                                 'of Commerce focused on the conditions of the '
+                                 'oceans and the atmosphere. NOAA warns of '
+                                 'dangerous weather, charts seas, guides the '
+                                 'use and protection of ocean and coastal '
+                                 'resources, and conducts research to improve '
+                                 'understanding and stewardship of the '
+                                 'environment.',
+                  'id': '65307de6-2b39-4173-be30-20254d9e664b',
+                  'image_url': 'https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg',
+                  'is_organization': True,
+                  'name': 'national-oceanic-and-atmospheric-administration',
+                  'revision_id': '8a473808-c59f-499e-9cad-7c2622cb70fe',
+                  'state': 'active',
+                  'title': 'National Oceanic and Atmospheric Administration',
+                  'type': 'organization'},
+ 'owner_org': '65307de6-2b39-4173-be30-20254d9e664b',
+ 'private': False,
+ 'relationships_as_object': [],
+ 'relationships_as_subject': [],
+ 'resources': [{'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-02-19T21:15:33.595050',
+                'description': '',
+                'format': 'ZIP',
+                'hash': '',
+                'id': '149b52ff-8697-4c5f-9102-fd52da06c42f',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': '98EE66D0-8C5A-41B7-95E7-1E8847943A80.zip',
+                'package_id': '48918e22-904d-4a2d-b4f7-611dc2fb0fa1',
+                'position': 0,
+                'resource_type': None,
+                'revision_id': '52f66f6f-7182-4a59-98b4-3a89911cb5de',
+                'size': None,
+                'state': 'active',
+                'url': 'https://drp-upload-bagger.s3.amazonaws.com/remote/98EE66D0-8C5A-41B7-95E7-1E8847943A80.zip',
+                'url_type': None},
+               {'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-02-19T21:16:54.432538',
+                'description': '',
+                'format': 'JSON',
+                'hash': '',
+                'id': 'da321958-412e-42d6-bc98-dddb07081764',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': '98EE66D0-8C5A-41B7-95E7-1E8847943A80.json',
+                'package_id': '48918e22-904d-4a2d-b4f7-611dc2fb0fa1',
+                'position': 1,
+                'resource_type': None,
+                'revision_id': '614faa6a-7fb7-4959-b379-4e62db7a7bc7',
+                'size': None,
+                'state': 'active',
+                'url': 'https://www.datarefuge.org/dataset/48918e22-904d-4a2d-b4f7-611dc2fb0fa1/resource/da321958-412e-42d6-bc98-dddb07081764/download/98ee66d0-8c5a-41b7-95e7-1e8847943a80.json',
+                'url_type': 'upload'}],
+ 'revision_id': '614faa6a-7fb7-4959-b379-4e62db7a7bc7',
+ 'state': 'active',
+ 'tags': [{'display_name': 'sea level',
+           'id': '0074711e-23f7-4d8b-ac89-f03befab9f2f',
+           'name': 'sea level',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'sea level changes',
+           'id': '98c7d9e3-69bb-4f4d-a07b-da12e9752c46',
+           'name': 'sea level changes',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'tide gauges',
+           'id': 'f1fe8d6e-e23c-4d44-a4f5-b0f2eb8b94f0',
+           'name': 'tide gauges',
+           'state': 'active',
+           'vocabulary_id': None}],
+ 'title': 'Sea Level Trends',
+ 'type': 'dataset',
+ 'url': 'https://tidesandcurrents.noaa.gov/sltrends/sltrends.html',
+ 'version': ''}{'author': '',
+ 'author_email': '',
+ 'creator_user_id': 'a8e48f48-f2e7-4492-90f5-f2cd4e46884d',
+ 'extras': [],
+ 'groups': [],
+ 'id': 'b5a6ce2c-1b5b-442f-a034-7011c0ce81b0',
+ 'isopen': True,
+ 'license_id': 'other-pd',
+ 'license_title': 'Other (Public Domain)',
+ 'maintainer': '',
+ 'maintainer_email': '',
+ 'metadata_created': '2017-03-11T19:32:38.554015',
+ 'metadata_modified': '2017-03-11T19:33:58.620735',
+ 'name': 'sea-level-rise-data-download',
+ 'notes': 'A preliminary look at sea level rise and coastal flooding impacts, '
+          'through nationally consistent data sets and analyses. The data and '
+          'maps in this tool illustrate the scale of potential flooding, not '
+          'the exact location, and do not account for erosion, subsidence, or '
+          'future construction. Water levels are shown as they would appear '
+          'during the highest high tides (excludes wind driven tides).',
+ 'num_resources': 1,
+ 'num_tags': 4,
+ 'organization': {'approval_status': 'approved',
+                  'created': '2017-02-15T13:10:32.467584',
+                  'description': 'The National Oceanic and Atmospheric '
+                                 'Administration is an American scientific '
+                                 'agency within the United States Department '
+                                 'of Commerce focused on the conditions of the '
+                                 'oceans and the atmosphere. NOAA warns of '
+                                 'dangerous weather, charts seas, guides the '
+                                 'use and protection of ocean and coastal '
+                                 'resources, and conducts research to improve '
+                                 'understanding and stewardship of the '
+                                 'environment.',
+                  'id': '65307de6-2b39-4173-be30-20254d9e664b',
+                  'image_url': 'https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg',
+                  'is_organization': True,
+                  'name': 'national-oceanic-and-atmospheric-administration',
+                  'revision_id': '8a473808-c59f-499e-9cad-7c2622cb70fe',
+                  'state': 'active',
+                  'title': 'National Oceanic and Atmospheric Administration',
+                  'type': 'organization'},
+ 'owner_org': '65307de6-2b39-4173-be30-20254d9e664b',
+ 'private': False,
+ 'relationships_as_object': [],
+ 'relationships_as_subject': [],
+ 'resources': [{'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-03-11T19:33:58.401939',
+                'description': '',
+                'format': '.zip',
+                'hash': '',
+                'id': 'a2af2a13-b76a-4982-a05b-477a06775a29',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': 'AE6FFD33-5A2F-419E-8CC6-638E1459A11C.zip',
+                'package_id': 'b5a6ce2c-1b5b-442f-a034-7011c0ce81b0',
+                'position': 0,
+                'resource_type': None,
+                'revision_id': '062919b1-f8a6-4f53-b0c2-a0ab04b16edf',
+                'size': None,
+                'state': 'active',
+                'url': 'https://s3.us-east-2.amazonaws.com/bdon-data-rescue/AE6FFD33-5A2F-419E-8CC6-638E1459A11C.zip',
+                'url_type': None}],
+ 'revision_id': '426cde18-1b8c-4355-bcd1-cafcd3206528',
+ 'state': 'active',
+ 'tags': [{'display_name': 'coasts',
+           'id': 'c223aa07-ee0a-487f-9f45-125fedc051fc',
+           'name': 'coasts',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'flooding',
+           'id': '854a1d77-1423-4a8a-808f-6fd44cb639ae',
+           'name': 'flooding',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'sea level rise',
+           'id': '7b74aafc-ea8b-4542-9692-108ae0bb9ae7',
+           'name': 'sea level rise',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'sea levels',
+           'id': '3016f2b6-5e80-47c5-8d18-683c9f2b0345',
+           'name': 'sea levels',
+           'state': 'active',
+           'vocabulary_id': None}],
+ 'title': 'Sea Level Rise Data Download',
+ 'type': 'dataset',
+ 'url': 'https://coast.noaa.gov/slrdata/',
+ 'version': ''}{'author': '',
+ 'author_email': '',
+ 'creator_user_id': 'eb88f314-9c53-4065-abe1-7c4906ef2fbe',
+ 'extras': [{'key': 'Coverage: GeographicLocation (text)',
+             'value': 'Baltimore (Md.); Boston (Mass.); Houston (Tex.);  Los '
+                      'Angeles (Calif.); Miami (Fla.); Mobile (Ala.); New '
+                      'Orleans (La.); New York (N.Y.); Norfolk (Va.); '
+                      'Philadelphia (Pa.)'},
+            {'key': 'Date:Collected', 'value': '2017-01-27'},
+            {'key': 'Format:Extent', 'value': '23MB'},
+            {'key': 'Format:Medium', 'value': 'PDF'},
+            {'key': 'Resource:Archived',
+             'value': 'https://drp-upload-bagger.s3.amazonaws.com/a2_data_rescue/64D48CEE-1D97-4EAF-94DD-5656A91326DC.zip'}],
+ 'groups': [{'description': '',
+             'display_name': 'Data Rescue Events',
+             'id': '7e6363ef-35ed-43a2-ab20-d64df0cd421b',
+             'image_display_url': '',
+             'name': 'data-rescue-events',
+             'title': 'Data Rescue Events'}],
+ 'id': 'f2359778-8406-4815-a6bb-5facbd2bb8ca',
+ 'isopen': True,
+ 'license_id': 'cc-by',
+ 'license_title': 'Creative Commons Attribution',
+ 'license_url': 'http://www.opendefinition.org/licenses/cc-by',
+ 'maintainer': '',
+ 'maintainer_email': '',
+ 'metadata_created': '2017-02-04T21:02:41.677368',
+ 'metadata_modified': '2017-02-15T13:17:05.321140',
+ 'name': 'sea-level-rise-and-storm-surge-effects-on-energy-assets',
+ 'notes': 'The U.S. Department of Energy’s (DOE) Office of Electricity '
+          'Delivery & Energy Reliability (OE) undertook this study to assess '
+          'the potential sea level rise (SLR) and storm surge risks to energy '
+          'assets in major Metropolitan Statistical Areas (MSA) for specific '
+          'cities in the United States. \r\n'
+          '\r\n'
+          'For purposes of the study, the MSAs (cities) include: \r\n'
+          ' \r\n'
+          'Baltimore, MD\r\n'
+          'Boston, MA\r\n'
+          'Houston, TX\r\n'
+          'Los Angeles, CA\r\n'
+          'Miami, FL\r\n'
+          'Mobile, AL\r\n'
+          'New Orleans, LA\r\n'
+          'New York, NY\r\n'
+          'Norfolk, VA\r\n'
+          'Philadelphia, PA\r\n'
+          ' \r\n'
+          'These MSAs were chosen given their proximity to the coast, their '
+          'geographical representation, past exposure to significant storm '
+          'events and potential exposure to SLR and storm surge.\r\n'
+          ' \r\n'
+          'For the purpose of this analysis, two storm categories were '
+          'examined. Category 1 storms were analyzed to illustrate the effects '
+          'of exacerbation from SLR on smaller storms. This study does not '
+          'address the potential changes in return intervals of hurricanes, '
+          'which may be different under future conditions and affect coastal '
+          'vulnerabilities. To account for potentially stronger storms in the '
+          'future, the study analyzed a storm one category higher than the '
+          'highest previously recorded in that area. For example, if a '
+          'category 3 was the largest known to have occurred within a specific '
+          'MSA, then this study would analyze a category 4 to address the '
+          'potential changes in return intervals.',
+ 'num_resources': 2,
+ 'num_tags': 4,
+ 'organization': {'approval_status': 'approved',
+                  'created': '2017-02-15T13:13:09.782151',
+                  'description': 'The United States Department of Energy (DOE) '
+                                 'is a Cabinet-level department of the United '
+                                 'States Government concerned with the United '
+                                 "States' policies regarding energy and safety "
+                                 'in handling nuclear material. Its '
+                                 "responsibilities include the nation's "
+                                 'nuclear weapons program, nuclear reactor '
+                                 'production for the United States Navy, '
+                                 'energy conservation, energy-related '
+                                 'research, radioactive waste disposal, and '
+                                 'domestic energy production.',
+                  'id': 'b8d563c0-1a9f-4262-9789-b645d31e58f2',
+                  'image_url': 'https://upload.wikimedia.org/wikipedia/commons/e/e2/Seal_of_the_United_States_Department_of_Energy.svg',
+                  'is_organization': True,
+                  'name': 'department-of-energy',
+                  'revision_id': '22177f41-5d90-488b-a1bd-07963de5cc6e',
+                  'state': 'active',
+                  'title': 'United States Department of Energy',
+                  'type': 'organization'},
+ 'owner_org': 'b8d563c0-1a9f-4262-9789-b645d31e58f2',
+ 'private': False,
+ 'relationships_as_object': [],
+ 'relationships_as_subject': [],
+ 'resources': [{'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-02-04T21:03:25.855153',
+                'description': '',
+                'format': 'ZIP',
+                'hash': '',
+                'id': '1a99bd2b-ba63-4eca-8866-dc10c66ee097',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': '64D48CEE-1D97-4EAF-94DD-5656A91326DC.zip',
+                'package_id': 'f2359778-8406-4815-a6bb-5facbd2bb8ca',
+                'position': 0,
+                'resource_type': None,
+                'revision_id': '7779e4bc-9cca-4416-ac65-cb483fdd94c4',
+                'size': None,
+                'state': 'active',
+                'url': 'https://drp-upload-bagger.s3.amazonaws.com/a2_data_rescue/64D48CEE-1D97-4EAF-94DD-5656A91326DC.zip',
+                'url_type': None},
+               {'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-02-04T21:03:49.677626',
+                'description': '',
+                'format': 'JSON',
+                'hash': '',
+                'id': 'c7ad3322-5ede-424f-a432-fddf5bbf8e89',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': 'D6318B81-F5AA-421B-BC13-9EA88E5F7547.json',
+                'package_id': 'f2359778-8406-4815-a6bb-5facbd2bb8ca',
+                'position': 1,
+                'resource_type': None,
+                'revision_id': '670d8148-cfba-4e1f-a7d5-860fd2ba0368',
+                'size': None,
+                'state': 'active',
+                'url': 'https://www.datarefuge.org/dataset/f2359778-8406-4815-a6bb-5facbd2bb8ca/resource/c7ad3322-5ede-424f-a432-fddf5bbf8e89/download/d6318b81-f5aa-421b-bc13-9ea88e5f7547.json',
+                'url_type': 'upload'}],
+ 'revision_id': '1088a6a8-3f9e-4d78-aab6-5c2c00b0aea6',
+ 'state': 'active',
+ 'tags': [{'display_name': 'energy analysis',
+           'id': '5d6ae08c-4cda-4107-ae4c-8c85443def18',
+           'name': 'energy analysis',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'energy assets',
+           'id': 'f2cf0e44-270c-4de2-a3df-a73c8df7ea0c',
+           'name': 'energy assets',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'sea level rise',
+           'id': '7b74aafc-ea8b-4542-9692-108ae0bb9ae7',
+           'name': 'sea level rise',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'storm surges',
+           'id': '721ae62b-3090-48c5-b891-8423575ba144',
+           'name': 'storm surges',
+           'state': 'active',
+           'vocabulary_id': None}],
+ 'title': 'Sea Level Rise and Storm Surge Effects on Energy Assets',
+ 'type': 'dataset',
+ 'url': 'http://energy-oe.maps.arcgis.com/apps/MapSeries/index.html?appid=244e96e24b5a47d28414b3c960198625',
+ 'version': ''}{'author': '',
+ 'author_email': '',
+ 'creator_user_id': 'f26c48c3-084b-4030-82d1-00e6d2b1819b',
+ 'extras': [],
+ 'groups': [],
+ 'id': '0c0fbcad-cc98-4b4f-a6b2-f80a6f4be614',
+ 'isopen': True,
+ 'license_id': 'cc-by',
+ 'license_title': 'Creative Commons Attribution',
+ 'license_url': 'http://www.opendefinition.org/licenses/cc-by',
+ 'maintainer': '',
+ 'maintainer_email': '',
+ 'metadata_created': '2017-02-23T05:03:09.842165',
+ 'metadata_modified': '2017-02-23T05:04:07.298314',
+ 'name': 'harmonic-constituents-station-selection',
+ 'notes': 'Data sheets from the NOAA Center for Operational Oceanographic '
+          'Products and Services "Tides and Currents" webpage. These are one '
+          'way of describing time series data measured by water level sensors '
+          'across the United States, U.S. territories, etc. Includes '
+          'information from U.S. coastal monitoring stations, Bermuda, the '
+          'Caribbean/Central America, and Diego Garcia.',
+ 'num_resources': 2,
+ 'num_tags': 7,
+ 'organization': {'approval_status': 'approved',
+                  'created': '2017-02-15T13:10:32.467584',
+                  'description': 'The National Oceanic and Atmospheric '
+                                 'Administration is an American scientific '
+                                 'agency within the United States Department '
+                                 'of Commerce focused on the conditions of the '
+                                 'oceans and the atmosphere. NOAA warns of '
+                                 'dangerous weather, charts seas, guides the '
+                                 'use and protection of ocean and coastal '
+                                 'resources, and conducts research to improve '
+                                 'understanding and stewardship of the '
+                                 'environment.',
+                  'id': '65307de6-2b39-4173-be30-20254d9e664b',
+                  'image_url': 'https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg',
+                  'is_organization': True,
+                  'name': 'national-oceanic-and-atmospheric-administration',
+                  'revision_id': '8a473808-c59f-499e-9cad-7c2622cb70fe',
+                  'state': 'active',
+                  'title': 'National Oceanic and Atmospheric Administration',
+                  'type': 'organization'},
+ 'owner_org': '65307de6-2b39-4173-be30-20254d9e664b',
+ 'private': False,
+ 'relationships_as_object': [],
+ 'relationships_as_subject': [],
+ 'resources': [{'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-02-23T05:03:25.678756',
+                'description': '',
+                'format': 'JSON',
+                'hash': '',
+                'id': 'c5d40a3e-474d-496e-99e9-5247f734ebd3',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': 'A961D56D-277A-46F4-ABCC-DC843F279423.json',
+                'package_id': '0c0fbcad-cc98-4b4f-a6b2-f80a6f4be614',
+                'position': 0,
+                'resource_type': None,
+                'revision_id': '80e1140d-204a-49b6-a34b-271316b3d566',
+                'size': None,
+                'state': 'active',
+                'url': 'https://www.datarefuge.org/dataset/0c0fbcad-cc98-4b4f-a6b2-f80a6f4be614/resource/c5d40a3e-474d-496e-99e9-5247f734ebd3/download/a961d56d-277a-46f4-abcc-dc843f279423.json',
+                'url_type': 'upload'},
+               {'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-02-23T05:04:07.088211',
+                'description': '',
+                'format': 'CSV, ZIP',
+                'hash': '',
+                'id': 'a44365a8-6563-4a36-ac6e-3a34800094dc',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': 'A961D56D-277A-46F4-ABCC-DC843F279423.zip',
+                'package_id': '0c0fbcad-cc98-4b4f-a6b2-f80a6f4be614',
+                'position': 1,
+                'resource_type': None,
+                'revision_id': '80e1140d-204a-49b6-a34b-271316b3d566',
+                'size': None,
+                'state': 'active',
+                'url': 'https://drp-upload-bagger.s3.amazonaws.com/remote/A961D56D-277A-46F4-ABCC-DC843F279423.zip',
+                'url_type': None}],
+ 'revision_id': 'd5afa8f3-0c85-4380-9f2c-8485af581f69',
+ 'state': 'active',
+ 'tags': [{'display_name': 'Atlantic Ocean',
+           'id': '14df1b3b-49c8-4a4a-8a7f-9b887cfec782',
+           'name': 'Atlantic Ocean',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'Gulf of Mexico',
+           'id': '2db5522b-f04e-4f53-be4f-0d3943c30ebf',
+           'name': 'Gulf of Mexico',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'Indian Ocean',
+           'id': '6a4ac4b1-ef34-4c59-b087-4c11a6aab05f',
+           'name': 'Indian Ocean',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'Pacific Ocean',
+           'id': 'e23100fe-48f4-4ff6-bb3e-8982f5758822',
+           'name': 'Pacific Ocean',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'sea level changes',
+           'id': '98c7d9e3-69bb-4f4d-a07b-da12e9752c46',
+           'name': 'sea level changes',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'sea level rise',
+           'id': '7b74aafc-ea8b-4542-9692-108ae0bb9ae7',
+           'name': 'sea level rise',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'water level',
+           'id': '5a6bc1d9-6df0-4a29-93c2-d0ecc6947693',
+           'name': 'water level',
+           'state': 'active',
+           'vocabulary_id': None}],
+ 'title': 'Harmonic Constituents - Station Selection',
+ 'type': 'dataset',
+ 'url': 'https://tidesandcurrents.noaa.gov/stations.html?type=Harmonic%20Constituents',
+ 'version': ''}{'author': '',
+ 'author_email': '',
+ 'creator_user_id': '7cd4aa4f-118f-4270-8bf7-f4d830bccaed',
+ 'extras': [],
+ 'groups': [{'description': '',
+             'display_name': 'Data Rescue Events',
+             'id': '7e6363ef-35ed-43a2-ab20-d64df0cd421b',
+             'image_display_url': '',
+             'name': 'data-rescue-events',
+             'title': 'Data Rescue Events'}],
+ 'id': 'f46e7651-bd46-4c02-bb21-9b617adb66a8',
+ 'isopen': True,
+ 'license_id': 'other-pd',
+ 'license_title': 'Other (Public Domain)',
+ 'maintainer': '',
+ 'maintainer_email': '',
+ 'metadata_created': '2017-02-19T19:40:49.993034',
+ 'metadata_modified': '2017-02-19T19:48:30.740076',
+ 'name': 'advanced-microwave-scanning-radiometer-earth-observing-system-amsr-e',
+ 'notes': 'Data downloaded through ftp, official description could not be '
+          'accessed. The NASA National Snow and Ice Data Center Distributed '
+          'Active Archive Center (NSIDC DAAC) archives and distributes daily, '
+          'weekly, and monthly Level-1A, Level-2A, Level-2B, and Level-3 data '
+          'products from the Advanced Microwave Scanning Radiometer - Earth '
+          "Observing System (AMSR-E) sensor on NASA's Aqua satellite. Temporal "
+          'coverage for the data products is from 18 June 2002 through 04 '
+          'October 2011. he AMSR-E instrument provides measurements of the '
+          'following terrestrial, oceanic, and atmospheric parameters for the '
+          'investigation of global water and energy cycles.',
+ 'num_resources': 2,
+ 'num_tags': 10,
+ 'organization': {'approval_status': 'approved',
+                  'created': '2017-02-19T16:34:26.641240',
+                  'description': 'The National Aeronautics and Space '
+                                 'Administration (NASA) is an independent '
+                                 'agency of the executive branch of the United '
+                                 'States federal government responsible for '
+                                 'the civilian space program as well as '
+                                 'aeronautics and aerospace research.',
+                  'id': 'df9d0517-943d-4924-9936-2837a6d5b20a',
+                  'image_url': '2017-02-19-163426.619796NASAlogo.svg.png',
+                  'is_organization': True,
+                  'name': 'national-aeronautics-and-space-administration',
+                  'revision_id': '9bc1e57f-a4f1-41e8-a573-3b2b1558c18e',
+                  'state': 'active',
+                  'title': 'National Aeronautics and Space Administration',
+                  'type': 'organization'},
+ 'owner_org': 'df9d0517-943d-4924-9936-2837a6d5b20a',
+ 'private': False,
+ 'relationships_as_object': [],
+ 'relationships_as_subject': [],
+ 'resources': [{'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-02-19T19:46:07.630854',
+                'description': '',
+                'format': 'JSON',
+                'hash': '',
+                'id': '126f40f1-ce7e-4bab-b300-2c0719e90cfd',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': '03F91A42-AEDD-4F77-9F5E-49A3C1AF0948.json',
+                'package_id': 'f46e7651-bd46-4c02-bb21-9b617adb66a8',
+                'position': 0,
+                'resource_type': None,
+                'revision_id': 'caa4d7aa-16bc-441c-a95e-cb2baab23c6e',
+                'size': None,
+                'state': 'active',
+                'url': 'https://www.datarefuge.org/dataset/f46e7651-bd46-4c02-bb21-9b617adb66a8/resource/126f40f1-ce7e-4bab-b300-2c0719e90cfd/download/03f91a42-aedd-4f77-9f5e-49a3c1af0948.json',
+                'url_type': 'upload'},
+               {'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-02-19T19:48:30.535880',
+                'description': '',
+                'format': '',
+                'hash': '',
+                'id': '172d8646-9995-43b4-aca7-9e0bbb168acb',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': 'amsre',
+                'package_id': 'f46e7651-bd46-4c02-bb21-9b617adb66a8',
+                'position': 1,
+                'resource_type': None,
+                'revision_id': 'caa4d7aa-16bc-441c-a95e-cb2baab23c6e',
+                'size': None,
+                'state': 'active',
+                'url': 'ftp://podaac-ftp.jpl.nasa.gov/allData/amsre',
+                'url_type': None}],
+ 'revision_id': '921161e5-be77-4222-801c-fc31a5c9f307',
+ 'state': 'active',
+ 'tags': [{'display_name': 'Ocean Temperature',
+           'id': '7508305b-c72a-4565-a524-6762c2ea9b8b',
+           'name': 'Ocean Temperature',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'Sub-skin Sea Surface Temperature',
+           'id': '3da501dd-bc8b-4412-a927-cd9e94ef6f3e',
+           'name': 'Sub-skin Sea Surface Temperature',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'atmospheric cloud water',
+           'id': '3c9b86a5-c945-4bb0-8708-a691abea09c7',
+           'name': 'atmospheric cloud water',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'precipitation',
+           'id': 'e87ed20c-1973-4c11-b2cf-4c8df45618d7',
+           'name': 'precipitation',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'sea ice concentration',
+           'id': '04efc089-0104-45f3-baf8-4787c3c19634',
+           'name': 'sea ice concentration',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'sea surface temperature',
+           'id': '887025ad-beb8-4b1b-af19-4c501a790f4d',
+           'name': 'sea surface temperature',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'snow water equivalent',
+           'id': '443f96b8-2a03-4298-9a02-497cd85631d4',
+           'name': 'snow water equivalent',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'soil moisture',
+           'id': '38f62bba-990b-433d-be1a-0ae53cf59273',
+           'name': 'soil moisture',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'water vapor',
+           'id': 'bc0e3a19-0225-4a69-9603-687e92266fd9',
+           'name': 'water vapor',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'wind speed',
+           'id': 'd7895974-99c7-438b-a388-f1f3d93e7d38',
+           'name': 'wind speed',
+           'state': 'active',
+           'vocabulary_id': None}],
+ 'title': 'Advanced Microwave Scanning Radiometer - Earth Observing System '
+          '(AMSR-E)',
+ 'type': 'dataset',
+ 'url': '',
+ 'version': ''}{'author': '',
+ 'author_email': '',
+ 'creator_user_id': '24c20b7c-ea5f-4e57-bdce-f68b39738ff3',
+ 'extras': [],
+ 'groups': [],
+ 'id': '589f6bb6-3637-4aac-b0c4-62b066a554ba',
+ 'isopen': True,
+ 'license_id': 'other-pd',
+ 'license_title': 'Other (Public Domain)',
+ 'maintainer': '',
+ 'maintainer_email': '',
+ 'metadata_created': '2017-02-26T00:49:36.425281',
+ 'metadata_modified': '2017-02-26T00:56:51.818221',
+ 'name': 'map-of-social-vulnerabilities-for-fishing-communities',
+ 'notes': 'This map presents an interactive visualization of indicators for '
+          'Social Vulnerability, Gentrification Pressure, Sea Rise '
+          'Vulnerability, and Fishing Engagement and Reliance in coastal '
+          'communities in the US.\r\n'
+          '\r\n'
+          'Social indicators are numerical measures that describe the '
+          'well-being of individuals or communities. Indicators are comprised '
+          'of one variable or several components combined into an index. They '
+          'are used to describe and evaluate community well-being in terms of '
+          'social, economic, and psychological welfare. \r\n'
+          '\r\n'
+          'These indicators have been updated to include all communities in '
+          'coastal counties in the United States. They provide a '
+          'characterization of the well-being and level of dependence on '
+          'commercial and recreational fishing for over 3,800 communities. The '
+          'index score for a particular community is relative to all '
+          'communities in the index and would differ with a more regional '
+          'focus. ',
+ 'num_resources': 1,
+ 'num_tags': 7,
+ 'organization': {'approval_status': 'approved',
+                  'created': '2017-02-15T13:10:32.467584',
+                  'description': 'The National Oceanic and Atmospheric '
+                                 'Administration is an American scientific '
+                                 'agency within the United States Department '
+                                 'of Commerce focused on the conditions of the '
+                                 'oceans and the atmosphere. NOAA warns of '
+                                 'dangerous weather, charts seas, guides the '
+                                 'use and protection of ocean and coastal '
+                                 'resources, and conducts research to improve '
+                                 'understanding and stewardship of the '
+                                 'environment.',
+                  'id': '65307de6-2b39-4173-be30-20254d9e664b',
+                  'image_url': 'https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg',
+                  'is_organization': True,
+                  'name': 'national-oceanic-and-atmospheric-administration',
+                  'revision_id': '8a473808-c59f-499e-9cad-7c2622cb70fe',
+                  'state': 'active',
+                  'title': 'National Oceanic and Atmospheric Administration',
+                  'type': 'organization'},
+ 'owner_org': '65307de6-2b39-4173-be30-20254d9e664b',
+ 'private': False,
+ 'relationships_as_object': [],
+ 'relationships_as_subject': [],
+ 'resources': [{'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-02-26T00:56:51.602472',
+                'description': '',
+                'format': 'ZIP',
+                'hash': '',
+                'id': '9dad2b55-b7e2-4e5f-858c-cf96382319dc',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': '94AF8F70-00C4-4FF1-87B4-9DB69B518CAA+2.zip',
+                'package_id': '589f6bb6-3637-4aac-b0c4-62b066a554ba',
+                'position': 0,
+                'resource_type': None,
+                'revision_id': 'b7d483f3-836c-45a7-a89b-9f6ee11d6482',
+                'size': None,
+                'state': 'active',
+                'url': 'https://s3.amazonaws.com/drp-upload/remote/94AF8F70-00C4-4FF1-87B4-9DB69B518CAA+2.zip',
+                'url_type': None}],
+ 'revision_id': '514a3d5c-b820-4e55-89c6-1b7723d829a9',
+ 'state': 'active',
+ 'tags': [{'display_name': 'NOAA',
+           'id': '40e762aa-17ea-4286-b4cf-9eef4466c116',
+           'name': 'NOAA',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'arcgis',
+           'id': '4c6625b5-063d-41b7-a497-7224b550f6e0',
+           'name': 'arcgis',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'coastline',
+           'id': '8414a8a8-1d36-4c1c-9917-bc96b3a61bac',
+           'name': 'coastline',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'data visualization',
+           'id': 'e59241a6-7842-45ea-b8ad-6136775d116b',
+           'name': 'data visualization',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'fishing communities',
+           'id': '88a7cc82-1bc8-454a-8a90-9c3edccdd267',
+           'name': 'fishing communities',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'map',
+           'id': '36416df6-e955-40e0-a4fd-81f1fd21fef3',
+           'name': 'map',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'social vulnerability',
+           'id': '9725e97a-7659-4334-9d59-369ac6685adc',
+           'name': 'social vulnerability',
+           'state': 'active',
+           'vocabulary_id': None}],
+ 'title': 'Map of social vulnerabilities for fishing communities',
+ 'type': 'dataset',
+ 'url': 'http://www.st.nmfs.noaa.gov/humandimensions/social-indicators/map',
+ 'version': ''}{'author': '',
+ 'author_email': '',
+ 'creator_user_id': '7cd4aa4f-118f-4270-8bf7-f4d830bccaed',
+ 'extras': [],
+ 'groups': [{'description': '',
+             'display_name': 'Data Rescue Events',
+             'id': '7e6363ef-35ed-43a2-ab20-d64df0cd421b',
+             'image_display_url': '',
+             'name': 'data-rescue-events',
+             'title': 'Data Rescue Events'}],
+ 'id': '5e356d5f-ec99-41d3-a6b7-276e0bdeff83',
+ 'isopen': True,
+ 'license_id': 'other-pd',
+ 'license_title': 'Other (Public Domain)',
+ 'maintainer': '',
+ 'maintainer_email': '',
+ 'metadata_created': '2017-02-19T20:55:55.811988',
+ 'metadata_modified': '2017-02-20T02:49:12.316088',
+ 'name': 'ndbc-tao-data-download',
+ 'notes': 'Pacific Ocean Weather Data captured by NOAA Buoys. The TAO array '
+          '(renamed the TAO/TRITON array on 1 January 2000) consists of '
+          'approximately 70 moorings in the Tropical Pacific Ocean, '
+          'telemetering oceanographic and meteorological data to shore in '
+          'real-time via the Argos satellite system. The array is a major '
+          'component of the El Niño/Southern Oscillation (ENSO) Observing '
+          'System, the Global Climate Observing System (GCOS) and the Global '
+          'Ocean Observing System (GOOS). Support is provided primarily by the '
+          'United States (National Oceanic and Atmospheric Administration) and '
+          'Japan (Japan Agency for Marine-earth Science and TEChnology) with '
+          'additional contributions from France (Institut de recherche pour le '
+          'developpement).',
+ 'num_resources': 2,
+ 'num_tags': 12,
+ 'organization': {'approval_status': 'approved',
+                  'created': '2017-02-15T13:10:32.467584',
+                  'description': 'The National Oceanic and Atmospheric '
+                                 'Administration is an American scientific '
+                                 'agency within the United States Department '
+                                 'of Commerce focused on the conditions of the '
+                                 'oceans and the atmosphere. NOAA warns of '
+                                 'dangerous weather, charts seas, guides the '
+                                 'use and protection of ocean and coastal '
+                                 'resources, and conducts research to improve '
+                                 'understanding and stewardship of the '
+                                 'environment.',
+                  'id': '65307de6-2b39-4173-be30-20254d9e664b',
+                  'image_url': 'https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg',
+                  'is_organization': True,
+                  'name': 'national-oceanic-and-atmospheric-administration',
+                  'revision_id': '8a473808-c59f-499e-9cad-7c2622cb70fe',
+                  'state': 'active',
+                  'title': 'National Oceanic and Atmospheric Administration',
+                  'type': 'organization'},
+ 'owner_org': '65307de6-2b39-4173-be30-20254d9e664b',
+ 'private': False,
+ 'relationships_as_object': [],
+ 'relationships_as_subject': [],
+ 'resources': [{'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-02-19T20:56:06.373362',
+                'description': '',
+                'format': 'JSON',
+                'hash': '',
+                'id': '035cd7ec-6837-493b-8217-54f838959163',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': '7E0819D1-1C00-4549-BF9F-82F597DE04C2.json',
+                'package_id': '5e356d5f-ec99-41d3-a6b7-276e0bdeff83',
+                'position': 0,
+                'resource_type': None,
+                'revision_id': '55ca1a16-6a50-41e3-be2b-3be797664eb0',
+                'size': None,
+                'state': 'active',
+                'url': 'https://www.datarefuge.org/dataset/5e356d5f-ec99-41d3-a6b7-276e0bdeff83/resource/035cd7ec-6837-493b-8217-54f838959163/download/7e0819d1-1c00-4549-bf9f-82f597de04c2.json',
+                'url_type': 'upload'},
+               {'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-02-19T20:56:18.812408',
+                'description': '',
+                'format': 'ZIP',
+                'hash': '',
+                'id': 'a1a50028-61df-4361-9059-2b7ad6a843ba',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': 'http://tao.ndbc.noaa.gov/tao/data_download/search_map.shtml',
+                'package_id': '5e356d5f-ec99-41d3-a6b7-276e0bdeff83',
+                'position': 1,
+                'resource_type': None,
+                'revision_id': '1ef56330-433a-442e-b8f3-55770be79717',
+                'size': None,
+                'state': 'active',
+                'url': 'https://drp-upload-bagger.s3.amazonaws.com/remote/7E0819D1-1C00-4549-BF9F-82F597DE04C2.zip',
+                'url_type': None}],
+ 'revision_id': 'd0dbc9bb-4347-4264-8f9c-3dd3b610750a',
+ 'state': 'active',
+ 'tags': [{'display_name': 'Pacific Ocean',
+           'id': 'e23100fe-48f4-4ff6-bb3e-8982f5758822',
+           'name': 'Pacific Ocean',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'air temperature',
+           'id': '6f4038f1-ec41-458a-a81f-514ac8376d26',
+           'name': 'air temperature',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'currents',
+           'id': 'cd2947ab-98ff-401c-ba82-3a184abc4b4d',
+           'name': 'currents',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'density',
+           'id': 'ad729a88-a6a3-4810-930c-f333aa39373c',
+           'name': 'density',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'precipitation',
+           'id': 'e87ed20c-1973-4c11-b2cf-4c8df45618d7',
+           'name': 'precipitation',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'radiation',
+           'id': 'a1b8de08-88a5-4299-b38f-bd7882f0f8f4',
+           'name': 'radiation',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'relative humidity',
+           'id': '994a4621-03b2-40c4-b624-9edd2b3ba2e6',
+           'name': 'relative humidity',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'salinity',
+           'id': 'f74f1a74-7269-42f7-ab6d-ca52de334840',
+           'name': 'salinity',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'sea level pressure',
+           'id': 'dd7c7a9f-abed-4e2a-9b87-1aa9b8302e4d',
+           'name': 'sea level pressure',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'surface met',
+           'id': '19102dfc-9bf1-4030-89a0-26154f6a97c7',
+           'name': 'surface met',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'weather buoys',
+           'id': '59841952-cf2a-4174-b9be-64b12f9274cc',
+           'name': 'weather buoys',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'winds',
+           'id': '1fe77fe4-2e64-4435-8590-05ca8d806c11',
+           'name': 'winds',
+           'state': 'active',
+           'vocabulary_id': None}],
+ 'title': 'NDBC TAO: Data Download',
+ 'type': 'dataset',
+ 'url': '',
+ 'version': ''}{'author': '',
+ 'author_email': '',
+ 'creator_user_id': 'd0c7f773-1f71-400a-98ee-a2d7d767107a',
+ 'extras': [],
+ 'groups': [{'description': '',
+             'display_name': 'Data Rescue Events',
+             'id': '7e6363ef-35ed-43a2-ab20-d64df0cd421b',
+             'image_display_url': '',
+             'name': 'data-rescue-events',
+             'title': 'Data Rescue Events'}],
+ 'id': '764c5c3c-2730-48fa-a383-b147d8513db8',
+ 'isopen': True,
+ 'license_id': 'other-pd',
+ 'license_title': 'Other (Public Domain)',
+ 'maintainer': '',
+ 'maintainer_email': '',
+ 'metadata_created': '2017-03-11T20:51:50.967614',
+ 'metadata_modified': '2017-03-11T20:53:41.108337',
+ 'name': 'noaa-national-centers-for-environmental-information-state-climate-summaries',
+ 'notes': 'These state summaries were produced to meet a demand for '
+          'state-level information in the wake of the Third U.S. National '
+          'Climate Assessment, released in 2014. The summaries cover '
+          'assessment topics directly related to NOAA’s mission, specifically '
+          'historical climate variations and trends, future climate model '
+          'projections of climate conditions during the 21st century, and past '
+          'and future conditions of sea level and coastal flooding. Additional '
+          'background information and links are given below. Package includes '
+          'state summaries, station locations, and supplementary '
+          'documentation. \r\n'
+          '\r\n'
+          'These NOAA State Summaries were produced in response to a growing '
+          'demand for state-level information in the context of the Third '
+          'National Climate Assessment (NCA) and subsequent sustained '
+          'activities. They consist of observed and projected climate change '
+          'information and focus on aspects that are part of NOAA’s mission '
+          '(mainly characteristics of the physical climate and coastal '
+          'issues). The NCA activities derive from the U.S. Global Change '
+          'Research Act (GCRA) of 1990. One of the activities spelled out in '
+          'that Act is a quadrennial assessment that “analyzes current trends '
+          'in global change, both human-inducted and natural, and projects '
+          'major trends for the subsequent 25 to 100 years.” These state '
+          'summaries support NCA activities and, deriving from the charge in '
+          'the GCRA, contain information both on historical trends and '
+          'scientific knowledge about potential future trends.\r\n'
+          '\r\n'
+          'While the datasets and simulations in these state summaries are '
+          'not, by themselves, new, (they have been previously published in '
+          'various sources), these documents represent a targeted synthesis of '
+          'historical and plausible future climate conditions for each U.S. '
+          'state. Each summary consists of a description of the historical '
+          'climate conditions in the state, as well as that of the climate '
+          'conditions associated with future pathways of greenhouse gas '
+          'emissions. All 50 summaries underwent an anonymous review, with at '
+          'least two expert reviews completed per state.',
+ 'num_resources': 1,
+ 'num_tags': 4,
+ 'organization': {'approval_status': 'approved',
+                  'created': '2017-02-15T13:10:32.467584',
+                  'description': 'The National Oceanic and Atmospheric '
+                                 'Administration is an American scientific '
+                                 'agency within the United States Department '
+                                 'of Commerce focused on the conditions of the '
+                                 'oceans and the atmosphere. NOAA warns of '
+                                 'dangerous weather, charts seas, guides the '
+                                 'use and protection of ocean and coastal '
+                                 'resources, and conducts research to improve '
+                                 'understanding and stewardship of the '
+                                 'environment.',
+                  'id': '65307de6-2b39-4173-be30-20254d9e664b',
+                  'image_url': 'https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg',
+                  'is_organization': True,
+                  'name': 'national-oceanic-and-atmospheric-administration',
+                  'revision_id': '8a473808-c59f-499e-9cad-7c2622cb70fe',
+                  'state': 'active',
+                  'title': 'National Oceanic and Atmospheric Administration',
+                  'type': 'organization'},
+ 'owner_org': '65307de6-2b39-4173-be30-20254d9e664b',
+ 'private': False,
+ 'relationships_as_object': [],
+ 'relationships_as_subject': [],
+ 'resources': [{'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-03-11T20:53:40.872798',
+                'description': '',
+                'format': 'ZIP',
+                'hash': '',
+                'id': '5f732251-779a-4a8e-a34a-99b1acfa6b61',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': 'B867D5C6-75F3-43BF-A12D-D1E58DA0DAD3.zip',
+                'package_id': '764c5c3c-2730-48fa-a383-b147d8513db8',
+                'position': 0,
+                'resource_type': None,
+                'revision_id': 'aa117bbe-fa40-420e-8fba-9910b229a54c',
+                'size': None,
+                'state': 'active',
+                'url': 'https://drp-upload-bagger.s3.amazonaws.com/remote/B867D5C6-75F3-43BF-A12D-D1E58DA0DAD3.zip',
+                'url_type': None}],
+ 'revision_id': '40d882cd-8fa2-4732-9f65-5e9ec25cb2d7',
+ 'state': 'active',
+ 'tags': [{'display_name': 'climate',
+           'id': '5fac100a-7474-4ff2-b462-d5dd325ebbc4',
+           'name': 'climate',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'earth science',
+           'id': '464f64e2-7d37-40cb-94f9-d806efe1d117',
+           'name': 'earth science',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'historic climate variation',
+           'id': 'b2d2a0fb-b6f8-4c78-8e73-361c7c6c5d8d',
+           'name': 'historic climate variation',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'weather',
+           'id': '68cf8807-75b7-48d0-b003-4639b39402d1',
+           'name': 'weather',
+           'state': 'active',
+           'vocabulary_id': None}],
+ 'title': 'State Climate Summaries | NOAA National Centers for Environmental '
+          'Information',
+ 'type': 'dataset',
+ 'url': 'https://statesummaries.ncics.org/',
+ 'version': ''}{'author': 'Mike Pavolonis',
+ 'author_email': '',
+ 'creator_user_id': '43ede503-0c25-44ca-8de2-d6612cedd532',
+ 'extras': [],
+ 'groups': [],
+ 'id': '1e3c2299-b7bf-4167-bad2-7405e9771358',
+ 'isopen': True,
+ 'license_id': 'other-pd',
+ 'license_title': 'Other (Public Domain)',
+ 'maintainer': '',
+ 'maintainer_email': '',
+ 'metadata_created': '2017-04-22T18:01:13.275003',
+ 'metadata_modified': '2017-04-22T18:13:13.911419',
+ 'name': 'goesr',
+ 'notes': '2014 Goes-R Science Seminar\r\n'
+          'December 01, 2014\r\n'
+          '\r\n'
+          'Low ceiling and visibility is a weather hazard that nearly every '
+          'forecaster, in nearly every National Weather Service (NWS) Weather '
+          'Forecast Office (WFO), must regularly address.  In addition, '
+          'national forecast centers such as the Aviation Weather Center (AWC) '
+          'Alaska Aviation Weather Unit (AAWU), and the Ocean Prediction '
+          'Center (OPC) are responsible for issuing low ceiling and visibility '
+          'related products.  As such, reliable methods for detecting and '
+          'characterizing hazardous low clouds are needed.  Traditionally, '
+          'hazardous areas of Fog/Low Stratus (FLS) are identified using a '
+          'simple stand-alone satellite product that is constructed by '
+          'subtracting the 3.9 and 11 \uf06dm brightness temperatures.  The '
+          '3.9-11 \uf06dm brightness temperature difference (BTD) has several '
+          'major limitations.  In an effort to address the limitations of the '
+          'BTD product, the GOES-R Algorithm Working Group (AWG) developed an '
+          'approach that fuses satellite, Numerical Weather Prediction (NWP) '
+          'model, Sea Surface Temperature (SST) analyses, and other data sets '
+          '(e.g. digital surface elevation maps, surface emissivity maps, and '
+          'surface type maps) to determine the probability that Instrument '
+          'Flight Rules (IFR) conditions are present.  IFR conditions are '
+          'characterized by a cloud ceiling below 1000 ft and/or a surface '
+          'visibility less than 3 miles. Satellite and non-satellite '
+          'predictors are used in a naïve Bayes model to determine the '
+          'probability of IFR at the resolution of the satellite data.  The '
+          'GOES-R fog/low cloud algorithm is an enterprise system in that it '
+          'can use satellite data from a variety of current data sensors '
+          '(VIIRS, GOES, MTSAT, MODIS, AVHRR and SEVIRI) and future '
+          'operational sensors (ABI and AHI) and NWP data from a variety of '
+          'models (GFS, RUC, and RAP).  In addition, recent research aimed at '
+          'blending GOES with VIIRS to create a very high-resolution depiction '
+          'of fog boundaries within valleys has shown great promise.  The FLS '
+          'products are available in AWIPS and have been evaluated within NWS '
+          'operations during the last three years as part of the Satellite '
+          'Proving Ground. Forecaster feedback collected so far has been '
+          'predominantly positive and product improvements have been made as a '
+          'result of the feedback.  References to these products within Area '
+          'Forecast Discussions (AFD’s) indicate that the products are '
+          'influencing operational forecasts.  An overview of the FLS '
+          'algorithm, with an emphasis on the efforts to blend GOES with '
+          'VIIRS, will be given.  In addition, the relevance of the FLS '
+          'products to NWS operations will be discussed.',
+ 'num_resources': 1,
+ 'num_tags': 14,
+ 'organization': {'approval_status': 'approved',
+                  'created': '2017-02-15T13:10:32.467584',
+                  'description': 'The National Oceanic and Atmospheric '
+                                 'Administration is an American scientific '
+                                 'agency within the United States Department '
+                                 'of Commerce focused on the conditions of the '
+                                 'oceans and the atmosphere. NOAA warns of '
+                                 'dangerous weather, charts seas, guides the '
+                                 'use and protection of ocean and coastal '
+                                 'resources, and conducts research to improve '
+                                 'understanding and stewardship of the '
+                                 'environment.',
+                  'id': '65307de6-2b39-4173-be30-20254d9e664b',
+                  'image_url': 'https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg',
+                  'is_organization': True,
+                  'name': 'national-oceanic-and-atmospheric-administration',
+                  'revision_id': '8a473808-c59f-499e-9cad-7c2622cb70fe',
+                  'state': 'active',
+                  'title': 'National Oceanic and Atmospheric Administration',
+                  'type': 'organization'},
+ 'owner_org': '65307de6-2b39-4173-be30-20254d9e664b',
+ 'private': False,
+ 'relationships_as_object': [],
+ 'relationships_as_subject': [],
+ 'resources': [{'cache_last_updated': None,
+                'cache_url': None,
+                'created': '2017-04-22T18:03:04.171541',
+                'description': 'Utilization of GOES-R and JPSS for Quantifying '
+                               'the Horizontal Extent of Hazardous Low Clouds',
+                'format': 'ZIP',
+                'hash': '',
+                'id': '96cfbcf2-8ff5-4166-a34c-f3322ccb5718',
+                'last_modified': None,
+                'mimetype': None,
+                'mimetype_inner': None,
+                'name': '8511C9F1-1712-44D9-B423-8676E7F16DAF.zip',
+                'package_id': '1e3c2299-b7bf-4167-bad2-7405e9771358',
+                'position': 0,
+                'resource_type': None,
+                'revision_id': '55756542-7c79-4cdc-84a0-40e134676edb',
+                'size': None,
+                'state': 'active',
+                'url': 'https://drp-upload-bagger.s3.amazonaws.com/remote/8511C9F1-1712-44D9-B423-8676E7F16DAF.zip',
+                'url_type': None}],
+ 'revision_id': '7443dcbe-10db-4d34-ab07-57050f997def',
+ 'state': 'active',
+ 'tags': [{'display_name': 'National Weather Service',
+           'id': '54263f88-2485-4495-abd9-5dc4e6bf577a',
+           'name': 'National Weather Service',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'Numerical Weather Prediction',
+           'id': '0f5bf917-1877-4268-b6e2-870630a6b665',
+           'name': 'Numerical Weather Prediction',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'Sea Surface Temperature',
+           'id': '093cabed-9433-4d1d-8dc3-518168395c18',
+           'name': 'Sea Surface Temperature',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'clouds',
+           'id': '96a1e93c-db41-4a51-b1ec-933004cd9925',
+           'name': 'clouds',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'fog',
+           'id': '268a29c7-60f7-47a8-882f-582d0d4c01f4',
+           'name': 'fog',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'low level clouds',
+           'id': '111b7f3f-5d9c-45bd-95e9-f154e183a710',
+           'name': 'low level clouds',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'low stratus clouds',
+           'id': '7844403a-d4e8-4d1d-8585-60c89c4947c6',
+           'name': 'low stratus clouds',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'prediction algorithms',
+           'id': '2c4b2170-3a12-4ea8-a224-d728fb4b8619',
+           'name': 'prediction algorithms',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'satellite data',
+           'id': '65b8c018-227f-4e7c-9882-12ba8d576eb4',
+           'name': 'satellite data',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'troposphere',
+           'id': 'b2d8785f-83e8-43e2-8f39-582dfc0276dd',
+           'name': 'troposphere',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'visibility',
+           'id': '347d07d5-990e-4840-a59b-128c9e786b33',
+           'name': 'visibility',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'weather',
+           'id': '68cf8807-75b7-48d0-b003-4639b39402d1',
+           'name': 'weather',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'weather forecasting',
+           'id': '755a21e1-1cde-40ae-9efc-0bae8fb235ad',
+           'name': 'weather forecasting',
+           'state': 'active',
+           'vocabulary_id': None},
+          {'display_name': 'weather satellites',
+           'id': '4526c52f-cd41-4fff-8e85-809a616c791b',
+           'name': 'weather satellites',
+           'state': 'active',
+           'vocabulary_id': None}],
+ 'title': 'Utilization of GOES-R and JPSS for Quantifying the Horizontal '
+          'Extent of Hazardous Low Clouds',
+ 'type': 'dataset',
+ 'url': 'http://www.goes-r.gov/users/sci-sem/2014_12_01.html',
+ 'version': ''}

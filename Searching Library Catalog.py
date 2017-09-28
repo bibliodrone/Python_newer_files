@@ -4,7 +4,7 @@
 # In[124]:
 
 import requests
-from urllib import urlopen
+import urllib
 from lxml.etree import parse
 
 encoding='utf-8'

@@ -4,11 +4,11 @@ Created on Wed Apr 12 18:29:51 2017
 
 @author: walden
 """
-import glob
+#import glob
 import os
 import re
 
-pattern = re.compile("\.py$") # Set for returning '.py' files...
+pattern = re.compile("\.py$")
 
 rootdir = 'C:/Users/Walden/Desktop/PyNew/Python3_Standard_Library'
 print("Root Directory: ", rootdir)
@@ -27,5 +27,6 @@ for subdir, dirs, files in os.walk(rootdir):
             
         print (os.path.join(subdir, file))
         read_files = glob.glob("*.py")
-"""
+
+
         

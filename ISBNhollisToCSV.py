@@ -22,11 +22,13 @@ with open('isbnsearchlist.txt', 'r') as f:
 
         soup = BeautifulSoup(data, 'html.parser')
 
-        #Variables: location, recID--> BibNo, hols 
+        #Variables: location, recID--> BibNo, hols
+        tags=soup.find_all()
+        for t in tags:
+            print (t)
+"""
         location = soup.find_all('physicallocation')
-
         recID = soup.find_all('recordidentifier')
-            
         BibNo = []
         for item in(recID):
             BibNo.append(item.get_text())
@@ -41,5 +43,5 @@ with open('isbnsearchlist.txt', 'r') as f:
         print("*")
 
 print('Search Complete. File is \"resultsFile.csv\".')
-  
+"""
 file.close()
