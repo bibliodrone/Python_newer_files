@@ -1,4 +1,5 @@
 #GetRecords.py
+#Hollis ISBN search; returns list of holding libraries, and the Record ID.
 
 import re
 import urllib.request
